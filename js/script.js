@@ -11,10 +11,10 @@ const ebody=`Name: ${name1.value}
    Message: ${message.value}`;
 Email.send({
 Host : "smtp.elasticemail.com",
-Username : "tejassgadgil@gmail.com",
-Password : "091BDBE41A81E5785D3D6FA474DB9D161314",
-To : 'tejassgadgil@gmail.com',
-From : 'tejassgadgil@gmail.com',
+Username : "***",
+Password : "***",
+To :  '***',
+From :  '***',
 Subject : "tried to contact from" + email.value,
 Body : ebody
 }).then(

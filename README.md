@@ -1,8 +1,17 @@
-# Financial-Literacy-Website
+# Financial Literacy Website
 
-A sample webpage created for a hypothetical Financial Literacy skills teaching organization. Used HTML, CSS and JavaScript.
-Attached below is a video tour of the page. 
-https://drive.google.com/file/d/1yU--XbOOciDokMUOoNZQLYnm6gH4_tx4/view?usp=share_link
+This project is a financial literacy website aimed at providing users with essential knowledge and tools to improve their financial management skills.
 
+## Video Tour
+
+Watch a quick video tour of the website: https://drive.google.com/file/d/1yU--XbOOciDokMUOoNZQLYnm6gH4_tx4/view?usp=share_link
+
+## Usage
+
+To use this project locally, simply clone the repository and open `index.html` in your web browser.
+
+```bash
+git clone https://github.com/your-username/financial-literacy-website.git
+cd financial-literacy-website
 
 
